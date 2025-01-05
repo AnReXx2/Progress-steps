@@ -9,7 +9,6 @@
 
 # 📝 Project Description:
 This project implements a progress tracker with interactive steps and connecting lines. The design includes animations for smooth transitions as users navigate through the steps. Built with clean and minimal JavaScript, it's optimized for both performance and responsiveness.
-🎨 Preview:
 
 ---
 
