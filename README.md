@@ -21,7 +21,7 @@ This project implements a progress tracker with interactive steps and connecting
 ---
 
 ### 🌐 Live Demo:
-🔗 Progress Steps Live Preview
+🔗 [Progress Steps Live Preview](https://progress-steps-preview.netlify.app/)
 
 ---
 
