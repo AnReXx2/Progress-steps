@@ -1,6 +1,6 @@
 📄 Project: Progress Steps
 🔧 Languages Used:
-<div> <img src="https://t3.ftcdn.net/jpg/05/27/97/74/360_F_527977463_hcQAYoMqDE17JUYji9J9bVIV6CWMsFuG.png" alt="HTML Logo" width="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS Logo" width="100"></div>
+<div> <img src="https://t3.ftcdn.net/jpg/05/27/97/74/360_F_527977463_hcQAYoMqDE17JUYji9J9bVIV6CWMsFuG.png" alt="HTML Logo" width="100"></div>
 📝 Project Description:
 
 This project implements a progress tracker with interactive steps and connecting lines. The design includes animations for smooth transitions as users navigate through the steps. Built with clean and minimal JavaScript, it's optimized for both performance and responsiveness.
